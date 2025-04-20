@@ -16,7 +16,7 @@ A simple and minimal To-Do list web application built using Django. You can add,
 
 ## Preview
 
-![Screenshot](https://via.placeholder.com/700x400.png?text=Add+your+Screenshot+Here)
+![Screenshot]([https://via.placeholder.com/700x400.png?text=Add+your+Screenshot+Here](https://github.com/NightSlayer0002/django-to-do-list/blob/main/Screenshot))
 
 ---
 
